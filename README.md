@@ -9,6 +9,7 @@ This is a solution to a [challenge on Frontend Mentor](https://www.frontendmento
 ### Reflections
 - JavaScript starting to feel intuitive now. Hurrah!
 - I can think of a bunch of UX improvements but just keeping the focus on development for so kept to the design as specified. I improvised with how the 'custom' button reacts, given the design didn't specify that.
+- If I were to do it again I dare say I could find a more efficient way to organsie the JavaScript.
 
 ### Current process
 #### Setup
@@ -34,4 +35,4 @@ This is a solution to a [challenge on Frontend Mentor](https://www.frontendmento
 1. JavaScript!
 
 ### Questions
-I'm learning frontend coding (and temporarily forcing myself to hand-code everything) in the belief that AI code still needs human oversight and I can't provide that oversight without coding proficiency. I wonder if even that will be true in a year though, give how people are talking about Claude Opus 4.5. I'm very interested in others' thoughts on this question!# tip-calculator-app
+I'm learning frontend coding (and temporarily forcing myself to hand-code everything) in the belief that AI code still needs human oversight and I can't provide that oversight without coding proficiency. I wonder if even that will be true in a year though, give how people are talking about Claude Opus 4.5. I'm very interested in others' thoughts on this question!
